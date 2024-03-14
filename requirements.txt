@@ -1,10 +1,10 @@
-openai
+openai==0.28
 pandas
 llama-index
 jinja2
 streamlit
 spacy
-langchain==0.1.12  # Adjust to the latest version available
+langchain  # Adjust to the latest version available
 # LlamaIndex  # Placeholder version, please check the correct one for LambIndex
 mlflow
 jupyterlab

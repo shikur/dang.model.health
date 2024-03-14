@@ -69,3 +69,6 @@ https://medium.com/rahasak/build-rag-application-using-a-llm-running-on-local-co
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+Resources:
+https://positivepsychology.com/common-therapy-questions/
