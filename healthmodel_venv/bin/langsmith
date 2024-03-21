@@ -1,4 +1,4 @@
-#!/home/shikur/repo/dang.model.health/healthmodel_venv/bin/python3
+#!/home/shikur/repo/dang.model.health/healthmodel_venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

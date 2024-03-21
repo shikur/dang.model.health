@@ -40,15 +40,15 @@ community_roles = "Volunteers at local coding bootcamps, participates in tech-fo
 subject_introduction = generate_subject_introduction(age, racial_background, location, parental_role, professional_role, community_roles)
 print(subject_introduction)
     # Generate text using LangChain
-    prompt = "Example prompt"
-    generated_text = lc.generate_text(prompt)
+prompt = "Example prompt"
+generated_text = lc.generate_text(prompt)
 
-    print("Generated Text:", generated_text)
+print("Generated Text:", generated_text)
 
-    # Example metrics and parameters to log with MLflow
-    metrics = {"length": len(generated_text)}
-    params = {"prompt": prompt}
-    log_experiment(metrics, params, experiment_name="langchain_experiment")
+# Example metrics and parameters to log with MLflow
+metrics = {"length": len(generated_text)}
+params = {"prompt": prompt}
+log_experiment(metrics, params, experiment_name="langchain_experiment")
 
 if __name__ == "__main__":
     main()

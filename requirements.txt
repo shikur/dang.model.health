@@ -1,4 +1,4 @@
-openai==0.28
+openai
 pandas
 llama-index
 jinja2
@@ -14,4 +14,5 @@ uvicorn
 pydantic
 fastapi
 uvicorn[standard]
+python-dotenv
 

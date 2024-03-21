@@ -75,6 +75,11 @@ class Conclusion(BaseModel):
       dilemmas: str
       life_journey: str
 
+"""
+used to handle narratives realted to indivdual client 
+Returns:
+      _type_: _description_
+"""
 class IdentityNarrative(BaseModel):
      basic_information: Optional[BasicInformation] = None
      key_roles: Optional[KeyRoles] = None 
