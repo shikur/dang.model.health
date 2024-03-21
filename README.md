@@ -1,28 +1,4 @@
 # dang.model.health
-LLM by integrating Spacy, Langhian and MLflow
-
-your_project_name/
-│
-├── data/                    # Directory for storing data files
-│
-├── models/                  # ML models (spaCy models, custom models, etc.)
-│
-├── notebooks/               # Jupyter notebooks for experimentation and analysis
-│
-├── src/                     # Source code for use in this project
-│   ├── __init__.py          # Makes src a Python module
-│   ├── main.py              # Main script where the project's primary functions are run
-│   └── your_module/         # Custom modules for your project
-│       ├── __init__.py
-│       └── your_script.py
-│
-├── tests/                   # Test cases for your project's code
-│   ├── __init__.py
-│   └── test_your_module.py
-│
-├── .gitignore               # Specifies intentionally untracked files to ignore
-├── requirements.txt         # The dependencies file for reproducing the analysis environment
-└── README.md                # Top-level README for developers using this project
 
  Sample requirements.txt
 For your requirements.txt, you would list the dependencies required for your project. Here's an example that includes spaCy, LangChain, LambIndex, and MLflow:
