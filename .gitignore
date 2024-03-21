@@ -166,8 +166,8 @@ README.md
 =1.10.0
 Blyler & Seligman (2023) - Open Materials.pdf
 
-healthmodel_venv/bin/ddgs
-mlruns/0/1b13ef96a4d7407aba47e0ae063d6141/
-mlruns/0/5099e2dc6c5e44aea83b7d6b99f50472/
-mlruns/0/a5084c7fc9244feeaca051b26143ebda/
+# healthmodel_venv/bin/ddgs
+# mlruns/0/1b13ef96a4d7407aba47e0ae063d6141/
+# mlruns/0/5099e2dc6c5e44aea83b7d6b99f50472/
+# mlruns/0/a5084c7fc9244feeaca051b26143ebda/
 notebooks/
